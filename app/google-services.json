@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1022701820675",
+    "firebase_url": "https://andriod-a1177.firebaseio.com",
+    "project_id": "andriod-a1177",
+    "storage_bucket": "andriod-a1177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022701820675:android:ea4ac79ce3c377a4",
+        "android_client_info": {
+          "package_name": "bank.ruts.ac.th.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022701820675-g9v6hr1gmuk723n1bpj3qhv4eqgn23pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnnfD9gLoWguABC5vHBZ2Qxb0Pg6OhIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022701820675-g9v6hr1gmuk723n1bpj3qhv4eqgn23pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022701820675:android:51cc85dd8c79447c9ce736",
+        "android_client_info": {
+          "package_name": "bank.ruts.ac.th.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022701820675-710jse4100bgqrs2ierv0ks4tbelv9t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bank.ruts.ac.th.myapplication",
+            "certificate_hash": "639e5737e51b3f533bfbe7d5200ec6e18c91a7af"
+          }
+        },
+        {
+          "client_id": "1022701820675-g9v6hr1gmuk723n1bpj3qhv4eqgn23pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnnfD9gLoWguABC5vHBZ2Qxb0Pg6OhIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022701820675-g9v6hr1gmuk723n1bpj3qhv4eqgn23pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
